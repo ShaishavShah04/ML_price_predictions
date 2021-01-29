@@ -10,6 +10,6 @@ So far here are my results!
 
 ![FaceBook results](images/fb.png)
 
-![AMD results](images/amd.png)
+![AMD results](images/AMD.PNG)
 
 I hope to add order triggers for algo-trading soon!
